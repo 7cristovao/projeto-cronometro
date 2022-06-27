@@ -19,7 +19,7 @@
 }
 
 #start, #pause, #reset{
-    color: white;
+    color: #282828;
     border-radius: 20px;
     font-size: 10vh;
     font-family: 'Seven Segment';
