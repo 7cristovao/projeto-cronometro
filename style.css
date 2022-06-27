@@ -14,19 +14,18 @@
 @font-face{
     font-family: 'Seven Segment';
 
-    /*Caso a fonte esteja na mesma pasta*/
     src: url("Seven_Segment.ttf");
 }
 
 #start, #pause, #reset{
     color: #282828;
     border-radius: 20px;
-    font-size: 10vh;
+    font-size: 10vw;
     font-family: 'Seven Segment';
 }
 
 #doispontos{
-    color: red;
-    font-size: 16vh;
+    color: black;
+    font-size: 16vw;
     font-family: Arial, Helvetica, sans-serif;
 }
